@@ -12,12 +12,12 @@
  # [Trello Bot](https://github.com/BunyodNaimov/trello_bot)
 
 ## Описание проекта:
-    Проект "trello_bot" - это скрипт на языке Python для Telegram-бота, который позволяет
-    управлять задачами и досками в Trello через мессенджер Telegram. Проект
-    представляет собой простую,но полезную реализациюTelegram-бота для
-    управления задачами и досками в Trello. Он может быть использован в качестве
-    примера для создания собственных проектов, которые взаимодействуют с API Trello
-    или другими сервисами через Telegram-бота. [Подробнее](https://github.com/BunyodNaimov/trello_bot)
+   Проект "trello_bot" - это скрипт на языке Python для Telegram-бота, который позволяет
+  управлять задачами и досками в Trello через мессенджер Telegram. Проект
+  представляет собой простую,но полезную реализациюTelegram-бота для
+  управления задачами и досками в Trello. Он может быть использован в качестве
+  примера для создания собственных проектов, которые взаимодействуют с API Trello
+  или другими сервисами через Telegram-бота. [Подробнее](https://github.com/BunyodNaimov/trello_bot)
   
 <!--
 **BunyodNaimov/BunyodNaimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
